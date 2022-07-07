@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://saksham2255.github.io/PortfolioWebsite/](https://saksham2255.github.io/PortfolioWebsite/)
 
-- 💬 Ask me about **MERN|HTML|CSS|JAVASCRIPT|REACT|NODE|REDUX|EXPRESS|MONGO DB**
+- 💬 Ask me about **JAVA|DSA|MERN|HTML|CSS|JAVASCRIPT|REACT|NODE|REDUX|EXPRESS|MONGO DB**
 
 - 📫 How to reach me **sakshambhalla22@gmail.com**
 
