@@ -1,11 +1,11 @@
 [![MasterHead](https://devopsjournal.io/images/20211204/20211204_dev_to_hackathon.jpg)]
 <h1 align="center">Hi 👋, I'm Saksham Bhalla</h1>
-<h3 align="center">A passionate Fullstack Developer developer from India</h3>
+<h3 align="center">A passionate Fullstack Web Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saksham2255&label=Profile%20views&color=0e75b6&style=flat" alt="saksham2255" /> </p>
 
-- 🌱 I’m currently learning **Fullsatck web development from Prepbytes**
+- 🌱 I’m currently learning **Fullsatck web development.**
 
 - 👨‍💻 All of my projects are available at [https://saksham2255.github.io/PortfolioWebsite/](https://saksham2255.github.io/PortfolioWebsite/)
 
