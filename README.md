@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **sakshambhalla22@gmail.com**
 
-- ⚡ Fun fact **An ordinary developer who likes coffee**
+- ⚡ Fun fact **An ordinary developer who likes coffee :stuck_out_tongue_winking_eye:**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
